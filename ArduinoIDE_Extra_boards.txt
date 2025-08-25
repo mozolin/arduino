@@ -1,0 +1,6 @@
+
+=> Wemos D1 Mini
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+=> ESP-WROOM-32, ESP32-C3, ESP32-C6
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json

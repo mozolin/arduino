@@ -1,0 +1,15 @@
+  - platform: dallas
+    address: 0x639709B00A646128
+    name: "DS18B20 Temperature #1"
+    id: ds18b20_01
+
+  - platform: dallas
+    address: 0xE19A49B30A646128
+    name: "DS18B20 Temperature #2"
+    id: ds18b20_02
+
+  - platform: dallas
+    address: 0x12B779B30A646128
+    name: "DS18B20 Temperature #3"
+    id: ds18b20_03
+

@@ -1,0 +1,7 @@
+
+Uno (Nano, Pro Mini, etc with ATMega328/168): SDA = A4, SCL = A5
+
+Mega: SDA = 20, SCL = 21
+
+Аналоговые пины, ADC
+https://alexgyver.ru/lessons/analog-pins/

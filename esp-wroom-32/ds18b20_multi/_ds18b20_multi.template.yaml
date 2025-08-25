@@ -1,0 +1,4 @@
+  - platform: dallas
+    address: [ADDR]
+    name: "DS18B20 Temperature #[NUM]"
+    id: ds18b20_[BIG_NUM]
